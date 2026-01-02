@@ -20,6 +20,7 @@ PATH_PREFIX = ""
 
 # Index file to search for on directory requests, set to "" to disable indexes
 # Relative to the directory of the request.
+#INDEX_FILE = ""
 INDEX_FILE = "index.html"
 
 # File to fall back to when the requested path is not found in the bucket.
